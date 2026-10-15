@@ -1,2 +1,1 @@
-Primary oncall rotates every Monday...
-And we strictly following !
+Primary oncall rotates every Monday
